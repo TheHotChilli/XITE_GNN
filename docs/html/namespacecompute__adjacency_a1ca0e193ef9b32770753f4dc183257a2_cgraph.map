@@ -1,0 +1,7 @@
+<map id="compute_adjacency_matrix_delta" name="compute_adjacency_matrix_delta">
+<area shape="rect" id="node1" title="Compute the adjecency matrix as delta: adj_pain &#45; adj_base given pain and base labels." alt="" coords="5,64,208,105"/>
+<area shape="rect" id="node2" href="$namespacecompute__adjacency.html#a59c806b0980e8e10b175c870a57fc18e" title="Computes the weighted graph adjacency matrix based on co&#45;occurrence counts obtained from a frequency ..." alt="" coords="256,71,459,98"/>
+<area shape="rect" id="node3" href="$namespacecompute__adjacency.html#a936dc1bf25005287f69977c927478e00" title="Takes as input the absolute AU Co&#45;Occurence frequencies stored in a Dataframe df_AU_freq and computes..." alt="" coords="529,5,691,47"/>
+<area shape="rect" id="node4" href="$namespacecompute__adjacency.html#abd1bc537780ed28edce3bc66342d1448" title="Takes as input the absolute AU Co&#45;Occurence frequencies stored in a Dataframe df_AU_freq and computes..." alt="" coords="507,71,713,98"/>
+<area shape="rect" id="node5" href="$namespacecompute__adjacency.html#a0fc2232d6fdaf681dae88ccb04884624" title="Computes for each AU pair the relative co&#45;occurance frequency." alt="" coords="525,123,695,164"/>
+</map>

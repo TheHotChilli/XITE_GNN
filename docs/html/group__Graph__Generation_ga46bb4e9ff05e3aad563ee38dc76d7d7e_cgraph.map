@@ -1,0 +1,4 @@
+<map id="frequency_analysis" name="frequency_analysis">
+<area shape="rect" id="node1" title="Sequentiell frequency analysis of all valid subjects." alt="" coords="5,5,153,32"/>
+<area shape="rect" id="node2" href="$group__Graph__Generation.html#ga76a16b845c6e87341afd281fa764ccfb" title="Computes the absolute co&#45;occurence frequencies for each AU pairs, given the AU&#45;Data of one subject." alt="" coords="201,5,376,32"/>
+</map>

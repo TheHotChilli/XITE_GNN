@@ -1,0 +1,14 @@
+<map id="preprocess" name="preprocess">
+<area shape="rect" id="node1" title="Method that pre&#45;processes the subjects X&#45;ITE data and returns the computed features and slices data." alt="" coords="5,127,99,153"/>
+<area shape="rect" id="node2" href="$group__Slicing__and__Feature__Extraction.html#gad70b88aa0a7769008f39254824b09fdb" title=" " alt="" coords="149,72,267,99"/>
+<area shape="rect" id="node6" href="$group__Slicing__and__Feature__Extraction.html#gafda43771eac8d4cd54a0cc3095ee13f7" title="Processes the slices by applying a Butterworth filter, extracting features, and returning the feature..." alt="" coords="147,152,269,179"/>
+<area shape="rect" id="node3" href="$group__Slicing__and__Feature__Extraction.html#gaf34f1ce0c0bd8a418abc5f8e7d2f3fa7" title=" " alt="" coords="323,21,486,48"/>
+<area shape="rect" id="node5" href="$group__Slicing__and__Feature__Extraction.html#ga9ad3e6bb0820ff814abc74ccd0e13fb5" title="Returns the string pain group to which a int given label belongs." alt="" coords="540,57,768,98"/>
+<area shape="rect" id="node4" href="$group__Slicing__and__Feature__Extraction.html#gafe400215f063af23ae99b49e5274282a" title="Computes the information about all intervals (pain, baseline and invalid labels)." alt="" coords="563,5,745,32"/>
+<area shape="rect" id="node7" href="$group__Slicing__and__Feature__Extraction.html#ga7c92803497ad118387c9133da81bd24d" title="Applies a Butterworth filter to the input data using the filter settings specified via config file." alt="" coords="353,129,456,156"/>
+<area shape="rect" id="node10" href="$group__Slicing__and__Feature__Extraction.html#ga2224922b25baa50518cb04cf72139cac" title="This function takes the DataFrame of a single slice and the sample_rate at which the data was recorde..." alt="" coords="317,181,492,222"/>
+<area shape="rect" id="node12" href="$group__Slicing__and__Feature__Extraction.html#ga511c7bb7b45d2e68ece2eaefa1002a92" title="Replaces or removes NaN, inf, or &#45;inf entries in the input features data." alt="" coords="341,247,469,273"/>
+<area shape="rect" id="node8" href="$namespacefiltering__functions.html#abdb508570d6c976fe7f83a828bc8c73d" title="Applies a butterworth filter on input data." alt="" coords="563,122,745,163"/>
+<area shape="rect" id="node9" href="$namespacefiltering__functions.html#a9c2442b98e664346b49c4b8f7c5b6e33" title="Computes transfer function coefficients of a butterworth filter as second order sections (sos)." alt="" coords="816,122,999,163"/>
+<area shape="rect" id="node11" href="$namespacefeature__extraction__functions.html#a3ced9b549b547082702633bf93ac759f" title=" " alt="" coords="543,187,765,229"/>
+</map>

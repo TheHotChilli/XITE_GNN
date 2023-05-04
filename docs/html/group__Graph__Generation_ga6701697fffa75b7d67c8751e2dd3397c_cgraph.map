@@ -1,0 +1,4 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title="Main function that performs (parallel) frequency analysis and stores the results to csv files." alt="" coords="5,13,60,39"/>
+<area shape="rect" id="node2" href="$group__Graph__Generation.html#ga506356263692cfcae6cce130c9bbaecb" title="Parallel frequency analysis of all valid subjects." alt="" coords="108,5,256,47"/>
+</map>

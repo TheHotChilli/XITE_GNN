@@ -1,0 +1,5 @@
+<map id="preprocess_parallel" name="preprocess_parallel">
+<area shape="rect" id="node1" title="Perform parallel preprocessing of the XITE data." alt="" coords="5,31,155,57"/>
+<area shape="rect" id="node2" href="$group__Slicing__and__Feature__Extraction.html#gad215f3b94122ea8436e79a61ba38c023" title="Wrapper function for the parallel processing." alt="" coords="203,5,407,32"/>
+<area shape="rect" id="node3" href="$group__Slicing__and__Feature__Extraction.html#ga7c5485af5689bbd78042e274dd7ca4f8" title="Write the results of the parallel preprocessing to CSV files." alt="" coords="220,56,389,83"/>
+</map>

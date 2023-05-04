@@ -1,0 +1,4 @@
+<map id="run_training" name="run_training">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,105,32"/>
+<area shape="rect" id="node2" href="$namespacetrain__all.html#aa9c310d956ebbf631e526c50c84a1189" title="Runs a training pipeline on different graph neural networks (GNNs) using the OpenFace_Features_Datase..." alt="" coords="153,5,208,32"/>
+</map>

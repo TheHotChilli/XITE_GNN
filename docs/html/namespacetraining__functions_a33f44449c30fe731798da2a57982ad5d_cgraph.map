@@ -1,0 +1,6 @@
+<map id="kfold_CV" name="kfold_CV">
+<area shape="rect" id="node1" title="Perform k&#45;fold cross&#45;validation on a dataset using a specified PyTorch model." alt="" coords="5,56,85,83"/>
+<area shape="rect" id="node2" href="$namespacetraining__functions.html#a7b26bfdc06a0fb7e05ef3733c4ffa32b" title="Evaluates (Test Epoch) the input PyTorch model for a single epoch on the input data and returns the v..." alt="" coords="152,5,277,32"/>
+<area shape="rect" id="node3" href="$namespacetraining__functions.html#a8ef5b03eec55c06409b270a431942597" title="Evaluates (Test Epoch) the input PyTorch model for a single epoch on the input data and returns the v..." alt="" coords="133,56,296,83"/>
+<area shape="rect" id="node4" href="$namespacetraining__functions.html#aa67fd514c838af408c826a91010ac780" title="Trains the input PyTorch model for a single epoch on the input data and returns the training loss and..." alt="" coords="165,107,264,133"/>
+</map>

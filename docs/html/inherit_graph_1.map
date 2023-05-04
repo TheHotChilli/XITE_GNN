@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,76,57"/>
+<area shape="rect" id="node2" href="$classGAT_1_1GAT.html" title="GAT (Graph Attention Network) neural network PyTorch module that includes multiple GAT layers and a r..." alt="" coords="125,5,174,32"/>
+<area shape="rect" id="node3" href="$classGCN_1_1GCN.html" title="GCN (Graph Convolutional Network) neural network PyTorch module that includes multiple GCN layers,..." alt="" coords="124,56,175,83"/>
+</map>

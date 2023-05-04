@@ -1,0 +1,4 @@
+<map id="get_train_test_idxs" name="get_train_test_idxs">
+<area shape="rect" id="node1" title="Returns the indices within the subject list of training and testing subjects." alt="" coords="5,5,152,32"/>
+<area shape="rect" id="node2" href="$group__Datasets.html#ga7d5433a7753cfe343628eb915393d021" title="Returns the array of subject IDs in the dataset." alt="" coords="200,5,276,32"/>
+</map>

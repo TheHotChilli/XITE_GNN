@@ -1,0 +1,5 @@
+<map id="_apply_filter" name="_apply_filter">
+<area shape="rect" id="node1" title="Applies a Butterworth filter to the input data using the filter settings specified via config file." alt="" coords="5,13,108,39"/>
+<area shape="rect" id="node2" href="$namespacefiltering__functions.html#abdb508570d6c976fe7f83a828bc8c73d" title="Applies a butterworth filter on input data." alt="" coords="156,5,339,47"/>
+<area shape="rect" id="node3" href="$namespacefiltering__functions.html#a9c2442b98e664346b49c4b8f7c5b6e33" title="Computes transfer function coefficients of a butterworth filter as second order sections (sos)." alt="" coords="387,5,569,47"/>
+</map>

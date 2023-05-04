@@ -1,0 +1,6 @@
+<map id="Preprocessing" name="Preprocessing">
+<area shape="rect" id="node1" href="$group__Graph__Generation.html" title="Generation of an AU dependency graph." alt="" coords="173,5,313,31"/>
+<area shape="rect" id="node2" href="$group__Slicing__and__Feature__Extraction.html" title="Slicing/segmentation and feature extraction from slices." alt="" coords="167,55,319,95"/>
+<area shape="rect" id="node3" title="Functions and classes for preprocessing of the X&#45;ITE pain database." alt="" coords="5,63,119,88"/>
+<area shape="rect" id="node4" href="$group__Video__Labels.html" title="Computation of video labels from higher frequency bio labels." alt="" coords="189,120,297,145"/>
+</map>

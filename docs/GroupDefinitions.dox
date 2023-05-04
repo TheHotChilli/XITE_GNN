@@ -1,0 +1,40 @@
+# https://alesnosek.com/blog/2015/06/21/the-structure-of-doxygen-documentation/
+
+
+# Group Datasets
+/**
+ * @defgroup Datasets
+ * @brief Dataset classes for processing the X-ITE pain database. 
+ */
+
+
+# Group Training
+ /**
+ * @defgroup Training
+ * @brief Definition and training of GNN models. 
+ */
+
+
+# Group Preprocessing with subgroups
+/**
+ * @defgroup Preprocessing
+ * @brief Functions and classes for preprocessing of the X-ITE pain database.
+ *
+ * @{
+ */
+
+/** @defgroup Graph_Generation 
+ *@brief Generation of an AU dependency graph.
+ */
+
+/** 
+ * @defgroup Slicing_and_Feature_Extraction 
+ * @brief Slicing/segmentation and feature extraction from slices.
+ */
+
+ /** 
+ * @defgroup Video_Labels 
+ * @brief Computation of video labels from higher frequency bio labels.
+ */
+
+/** @} */

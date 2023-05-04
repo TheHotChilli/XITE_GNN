@@ -1,0 +1,5 @@
+<map id="_compute_slices_info" name="_compute_slices_info">
+<area shape="rect" id="node1" title=" " alt="" coords="5,35,168,61"/>
+<area shape="rect" id="node2" href="$group__Slicing__and__Feature__Extraction.html#gafe400215f063af23ae99b49e5274282a" title="Computes the information about all intervals (pain, baseline and invalid labels)." alt="" coords="239,5,421,32"/>
+<area shape="rect" id="node3" href="$group__Slicing__and__Feature__Extraction.html#ga9ad3e6bb0820ff814abc74ccd0e13fb5" title="Returns the string pain group to which a int given label belongs." alt="" coords="216,57,444,98"/>
+</map>
